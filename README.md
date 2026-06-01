@@ -54,13 +54,13 @@ factors and predict whether a customer will default using ML.
   
 ## 📊 Dashboard Preview
 
-### Page 1 - Overview
+### Page 1 - Executive Summary
 ![Dashboard Page 1](images/dashboard_page1.png)
 
-### Page 2 - Loan Analysis
+### Page 2 - Customer Analysis
 ![Dashboard Page 2](images/dashboard_page2.png)
 
-### Page 3 - Customer Insights
+### Page 3 - Risk Analysis
 ![Dashboard Page 3](images/dashboard_page3.png)
 
 ## 💡 Business Recommendations
