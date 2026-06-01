@@ -58,3 +58,7 @@ factors and predict whether a customer will default using ML.
 3. Review approval criteria for Nagpur and Lucknow branches
 4. Credit score below 600 should require additional verification
 5. Use ML model for real-time default risk prediction during loan approval
+   
+## 🔗 Quick Links
+- 📓 [View Jupyter Notebook](https://nbviewer.org/github/maheshghadgine2913/indian-bank-loan-default-analysis/blob/main/loan_analysis.ipynb)
+- 📊 Download Power BI Dashboard — loan_dashboard.pbix
