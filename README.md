@@ -51,6 +51,17 @@ factors and predict whether a customer will default using ML.
 - **Page 2** — Customer Analysis (city, age group, education)
 - **Page 3** — Risk Analysis (high risk table with conditional formatting)
 - Interactive slicers for loan type and date range
+  
+## 📊 Dashboard Preview
+
+### Page 1 - Overview
+![Dashboard Page 1](images/dashboard_page1.png)
+
+### Page 2 - Loan Analysis
+![Dashboard Page 2](images/dashboard_page2.png)
+
+### Page 3 - Customer Insights
+![Dashboard Page 3](images/dashboard_page3.png)
 
 ## 💡 Business Recommendations
 1. Tighten eligibility for Business Loans — highest default rate 26.4%
